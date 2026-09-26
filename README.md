@@ -8,19 +8,19 @@ Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtr
 
 - **Entrées / Sorties :** Utilisation de `input()` et `print()`.
 - **Types de données & Conversion (Casting) :** Manipulation des entiers (`int`), des nombres flottants (`float`) et des chaînes de caractères (`str`).
-- **Opérations Arithmétiques :** Calculs de base, puissances (`**`), division entière (`//`) et modulo (`%`).
-- **Modules standards :** Utilisation du module `math` (`pi`, `sqrt`).
-- **Logique & Algorithmes :** Permutation de variables (tuple unpacking), conversions d'unités (temps) et formules de géométrie/physique.
+- **Opérations Arithmétiques :** Calculs de base, puissances (`**`), division entière (`//`) et .... et modulo (`%`).
+- **Modules standards :** Utilisation du module `math` (`pi`, `sqrt`), module `rich` (`print`) et le module `pyfiglet` (`figlet_format`).
+- **Logique & Algorithmes :** Permutation de variables (tuple unpacking), conversions d'unités (temps)et ..... et formules de géométrie/physique.
 
 ---
 
 ## 📝 Liste des Exercices
 
 1. **Nom et Âge :** Saisie et affichage de données personnelles.
-2. **Année de Naissance :** Calcul de l'année à partir de l'âge.
-3. **Rectangle :** Calcul de la surface et du périmètre.
+2. **Année de Naissance :** Calcul de l'âge à partir de l'année de naissance.
+3. **Rectangle :** Calcul de la surface et du périmètre d'un rectangle.
 4. **Puissance :** Calcul de $X^Y$.
-5. **Opérations de Base :** Somme, différence, produit et quotient de deux nombres.
+5. **Opérations de Base :** Somme, différence, produit et quotient de deux nombres réels.
 6. **Statistiques :** Somme et moyenne de 5 notes.
 7. **Géométrie 3D :** Calcul du volume d'une sphère ($\frac{4}{3}\pi r^3$).
 8. **Algorithmique :** Échange de valeurs entre deux variables ($A, B = B, A$).
