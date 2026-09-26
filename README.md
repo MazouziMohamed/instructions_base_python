@@ -37,4 +37,4 @@ Pour exécuter les scripts localement :
 1. Assurez-vous d'avoir **Python 3.x** installé.
 2. Clonez le dépôt :
    ```bash
-   git clone https://github.com/MazouziMohamed/instructions_base_python_niveau1.git
+   https://github.com/MazouziMohamed/instructions_base_python_niveau1.git
