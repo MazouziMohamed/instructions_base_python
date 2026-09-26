@@ -7,10 +7,10 @@ Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtr
 ## 📌 Concepts couverts
 
 - **Entrées / Sorties :** Utilisation de `input()` et `print()`.
-- **Types de données & Conversion (Casting) :** Manipulation des entiers (`int`), des nombres flottants (`float`) et des chaînes de caractères (`str`).
+- **Types de données & Conversion (Casting) :** Manipulation des entiers (`int`), des nombres flottants (`float`), ... et des chaînes de caractères (`str`).
 - **Opérations Arithmétiques :** Calculs de base, puissances (`**`), division entière (`//`) et .... et modulo (`%`).
 - **Modules standards :** Utilisation du module `math` (`pi`, `sqrt`), module `rich` (`print`) et le module `pyfiglet` (`figlet_format`).
-- **Logique & Algorithmes :** Permutation de variables (tuple unpacking), conversions d'unités (temps)et ..... et formules de géométrie/physique.
+- **Logique & Algorithmes :** Permutation de variables (tuple unpacking), conversions d'unités (temps) et ..... et formules de géométrie/physique.
 
 ---
 
