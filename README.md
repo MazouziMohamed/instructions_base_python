@@ -31,11 +31,13 @@ Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtr
 
 ---
 
-## 🛠️ Prérequis & Exécution
+## Guide d'Exécution
 
-Pour exécuter les scripts localement :
+### Prérequis
+Python 3.10 ou une version supérieure.
 
-1. Assurez-vous d'avoir **Python 3.x** installé.
-2. Clonez le dépôt :
+### Installation et Lancement
+
+1. Cloner le dépôt :
    ```bash
    https://github.com/MazouziMohamed/instructions_base_python_niveau1.git
