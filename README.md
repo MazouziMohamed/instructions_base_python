@@ -27,6 +27,7 @@ Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtr
 9. **Conversion Temporelle :** Conversion de secondes en heures, minutes et secondes.
 10. **Géométrie analytique :** Calcul de la distance entre deux points $A(X_A, Y_A)$ et $B(X_B, Y_B)$.
 11. **Physique / Électricité :** Résistance équivalente de 3 résistances (en série et en parallèle).
+12. **Analyse de Nombre à 3 Chiffres :** Décomposition arithmétique (`//` et `%`), somme des chiffres et inversion avec casting (`int` et `str`).
 
 ---
 
