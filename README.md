@@ -1,20 +1,19 @@
-# 🐍 Python - Instructions de Base (Niveau 1)
-
-Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtriser les bases fondamentales de la programmation en Python.
-
----
-
-## 📌 Concepts couverts
-
-- **Entrées / Sorties :** Utilisation de `input()` et `print()`.
-- **Types de données & Conversion (Casting) :** Manipulation des entiers (`int`), des nombres flottants (`float`), ... et des chaînes de caractères (`str`).
-- **Opérations Arithmétiques :** Calculs de base, puissances (`**`), division entière (`//`) et .... et modulo (`%`).
-- **Modules standards :** Utilisation du module `math` (`pi`, `sqrt`), module `rich` (`print`) et le module `pyfiglet` (`figlet_format`).
-- **Logique & Algorithmes :** Permutation de variables (tuple unpacking), conversions d'unités (temps) et ..... et formules de géométrie/physique.
+# Instructions de Base en Python
+Ce dépôt rassemble les solutions de **12 exercices pratiques** axés sur l'apprentissage des **instructions de base** en Python.
 
 ---
 
-## 📝 Liste des Exercices
+## Concepts couverts
+
+- **Entrées / Sorties
+- **Types de données & Conversion (Casting)
+- **Opérations Arithmétiques
+- **Modules standards
+- **Logique & Algorithmes
+
+---
+
+## Liste des Exercices
 
 1. **Données Personnelles :** Lecture et affichage d'informations de base.
 2. **Calcul d'Âge :** Détermination de l'âge à partir de l'année de naissance.
