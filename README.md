@@ -16,18 +16,18 @@ Ce dépôt regroupe une série de **11 exercices pratiques** conçus pour maîtr
 
 ## 📝 Liste des Exercices
 
-1. **Nom et Âge :** Saisie et affichage de données personnelles.
-2. **Année de Naissance :** Calcul de l'âge à partir de l'année de naissance.
-3. **Rectangle :** Calcul de la surface et du périmètre d'un rectangle.
-4. **Puissance :** Calcul de $X^Y$.
-5. **Opérations de Base :** Somme, différence, produit et quotient de deux nombres réels.
-6. **Statistiques :** Somme et moyenne de 5 notes.
-7. **Géométrie 3D :** Calcul du volume d'une sphère ($\frac{4}{3}\pi r^3$).
-8. **Algorithmique :** Échange de valeurs entre deux variables ($A, B = B, A$).
-9. **Conversion Temporelle :** Conversion de secondes en heures, minutes et secondes.
-10. **Géométrie analytique :** Calcul de la distance entre deux points $A(X_A, Y_A)$ et $B(X_B, Y_B)$.
-11. **Physique / Électricité :** Résistance équivalente de 3 résistances (en série et en parallèle).
-12. **Analyse de Nombre à 3 Chiffres :** Décomposition arithmétique (`//` et `%`), somme des chiffres et inversion avec casting (`int` et `str`).
+1. **Données Personnelles :** Lecture et affichage d'informations de base.
+2. **Calcul d'Âge :** Détermination de l'âge à partir de l'année de naissance.
+3. **Propriétés du Rectangle :** Calcul du périmètre et de la surface.
+4. **Puissance :** Évaluation de la puissance $X^Y$.
+5. **Opérations Élémentaires :** Calcul de la somme, différence, produit et quotient.
+6. **Moyenne :** Calcul de la somme et de la moyenne de 5 notes.
+7. **Volume d'une Sphère :** Application de la formule géométrique $V = \frac{4}{3}\pi r^3$.
+8. **Échange de Variables :** Permutation de deux valeurs (`A, B = B, A`).
+9. **Conversion Temporelle :** Transformation d'une durée en secondes vers heures, minutes et secondes.
+10. **Distance Euclidienne :** Calcul de la distance entre deux points dans un plan 2D.
+11. **Circuits Électriques :** Calcul de la résistance équivalente en série et en parallèle.
+12. **Analyse Numérique :** Décomposition, somme des chiffres et inversion d'un nombre à trois chiffres.
 
 ---
 
