@@ -8,5 +8,5 @@ R2 = float(input('Veuillez entrer la valeur de la deuxième résistance : '))
 R3 = float(input('Veuillez entrer la valeur de la troisième résistance : '))
 resistance_equivalente_serie = R1 + R2 + R3
 resistance_equivalente_parallele = (R1 * R2 * R3) / (R2*R3 + R1*R3 + R1*R2)
-print('La résistance équivalente si les résistances sont branchées en série est :', resistance_equivalente_serie)
-print('La résistance équivalente si les résistances sont branchées en parallèle est :', resistance_equivalente_parallele)
+print(f"La résistance équivalente si les résistances sont branchées en série est : {resistance_equivalente_serie}")
+print(f"La résistance équivalente si les résistances sont branchées en parallèle est : {resistance_equivalente_parallele}")
