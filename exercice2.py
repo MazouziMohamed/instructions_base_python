@@ -4,4 +4,4 @@ puis il calcule et affiche l'âge de la personne.'''
 # la solution corrigée de l'exercice
 annee_naissance = int(input("Veuillez entrer votre année de naissance : "))
 age = 2026 - annee_naissance
-print('En 2026, votre âge est de', age, 'ans.')
+print(f"En 2026, votre âge est de {age} ans.")
