@@ -5,4 +5,4 @@ les ... par, respectivement le nom et l'âge.'''
 # la solution corrigée de l'exercice
 nom_etudiant = input("Veuillez entrer votre nom : ")
 age_etudiant = int(input("Veuillez entrer votre âge : "))
-print("Bonjour " + nom_etudiant + ", tu as", age_etudiant, "ans et bienvenue à l'université.")
+print(f"Bonjour {nom_etudiant}, tu as {age_etudiant} ans et bienvenue à l'université.")
