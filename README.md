@@ -87,4 +87,4 @@ Python 3.10 ou une version supérieure.
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/MazouziMohamed/instructions_base_python_niveau1.git
+   git clone https://github.com/MazouziMohamed/instructions_base_python.git
