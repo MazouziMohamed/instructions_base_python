@@ -9,4 +9,4 @@ temporaire %= 3600
 minutes = temporaire // 60
 temporaire %= 60
 secondes = temporaire
-print(temps_secondes, 'secondes =', heures, 'heures', minutes, 'minutes', secondes, 'secondes')
+print(f"{temps_secondes} secondes = {heures} heures {minutes} minutes {secondes} secondes")
