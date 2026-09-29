@@ -9,5 +9,5 @@ note4 = float(input('Veuillez entrer la quatrième note : '))
 note5 = float(input('Veuillez entrer la cinquième note : '))
 somme_notes = note1 + note2 + note3 + note4 + note5
 moyenne_notes = somme_notes / 5
-print('La somme des notes est :', somme_notes)
-print('La moyenne des notes est :', moyenne_notes)
+print(f"La somme des notes est : {somme_notes}")
+print(f"La moyenne des notes est {moyenne_notes}")
