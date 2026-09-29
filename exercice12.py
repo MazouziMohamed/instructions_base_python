@@ -19,6 +19,6 @@ somme_chiffres = chiffre_unites + chiffre_dizaines + chiffre_centaines
 temporaire = str(chiffre_unites) + str(chiffre_dizaines) + str(chiffre_centaines)
 temporaire = int(temporaire)
 # Affichage
-print('La somme de ces trois chiffres est :', somme_chiffres)
-print("L'inverse de", nombre_entier, "est :", temporaire)
-print('Le type du nombre inversé est :', type(temporaire))
+print(f"La somme de ces trois chiffres est : {somme_chiffres}")
+print(f"L'inverse de {nombre_entier} est : {temporaire}")
+print(f"Le type du nombre inversé est : {type(temporaire)}")
